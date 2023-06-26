@@ -19,6 +19,9 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=black">
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=Eclipse IDE&logoColor=black">
+<img src="https://img.shields.io/badge/JPA-F0047F?style=for-the-badge&logo=JPA&logoColor=white">
+
+
 
 </div>
 <br><br><br><br><br><br><br><br><br>
