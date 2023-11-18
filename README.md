@@ -1,5 +1,5 @@
 
-<div align=center><h1>🌱 SKILLS</h1></div>
+<div align=center><h1>💻 SKILLS</h1></div>
 <br><br><br>
 
 
