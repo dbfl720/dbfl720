@@ -38,7 +38,7 @@
 <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=black">
 <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=black">
 <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=black">
-<img src="https://img.shields.io/badge/amazonCodeDeploy-2F93E0?style=for-the-badge&logo=amazonCodeDeploy&logoColor=black">
+<img src="https://img.shields.io/badge/amazonCodeDeploy-F7A81B?style=for-the-badge&logo=amazonCodeDeploy&logoColor=black">
 <br><br>
 
 
