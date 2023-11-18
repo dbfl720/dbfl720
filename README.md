@@ -7,6 +7,7 @@
 
  ### **`Back-End`**
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black"> 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black"> 
  <img src="https://img.shields.io/badge/JSP-09A3D5?style=for-the-badge&logo=JSP&logoColor=white">
  <img src="https://img.shields.io/badge/JST-009287?style=for-the-badge&logo=JST&logoColor=white">
@@ -14,7 +15,7 @@
  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=WebSocket&logoColor=white">
  <img src="https://img.shields.io/badge/SocketJS-EF0092?style=for-the-badge&logo=SocketJS&logoColor=black">
  <img src="https://img.shields.io/badge/STOMP-D77310?style=for-the-badge&logo=STOMP&logoColor=black">
- <img src="https://img.shields.io/badge/JWT-010101?style=for-the-badge&logo=JWT&logoColor=white">
+ <img src="https://img.shields.io/badge/JWT-010101?style=for-the-badge&logo=JWT&logoColor=black">
  <br><br>
 
 
