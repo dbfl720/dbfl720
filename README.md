@@ -20,7 +20,7 @@
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
  <img src="https://img.shields.io/badge/MyBatis-4169E1?style=for-the-badge&logo=MyBatis&logoColor=white">
  <img src="https://img.shields.io/badge/JPA-F0047F?style=for-the-badge&logo=JPA&logoColor=white">
- <br>
+ <br><br>
  
 
 
@@ -33,7 +33,7 @@
 <img src="https://img.shields.io/badge/amazonrds-527FFF?style=for-the-badge&logo=amazonrds&logoColor=black">
 <img src="https://img.shields.io/badge/githubactions-2088FF?style=for-the-badge&logo=githubactions&logoColor=black">
 <img src="https://img.shields.io/badge/amazonCodeDeploy-2F93E0?style=for-the-badge&logo=amazonCodeDeploy&logoColor=black">
-<br>
+<br><br>
 
 
 
@@ -44,7 +44,7 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white">
- <br>
+ <br><br>
 
 
 
