@@ -12,10 +12,11 @@
 <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black"> 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black"> 
  <img src="https://img.shields.io/badge/springsecurity-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white">
+  <img src="https://img.shields.io/badge/JWT-010101?style=for-the-badge&logo=JWT&logoColor=black">
  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=WebSocket&logoColor=white">
  <img src="https://img.shields.io/badge/SocketJS-EF0092?style=for-the-badge&logo=SocketJS&logoColor=black">
  <img src="https://img.shields.io/badge/STOMP-D77310?style=for-the-badge&logo=STOMP&logoColor=black">
- <img src="https://img.shields.io/badge/JWT-010101?style=for-the-badge&logo=JWT&logoColor=black">
+
  <br><br>
 
 
