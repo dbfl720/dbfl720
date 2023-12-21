@@ -16,7 +16,7 @@
  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=WebSocket&logoColor=white">
  <img src="https://img.shields.io/badge/SocketJS-EF0092?style=for-the-badge&logo=SocketJS&logoColor=black">
  <img src="https://img.shields.io/badge/STOMP-D77310?style=for-the-badge&logo=STOMP&logoColor=black">
-
+ <img src="https://img.shields.io/badge/JPA-F0047F?style=for-the-badge&logo=JPA&logoColor=white">
  <br><br><br>
 
 
@@ -24,7 +24,7 @@
   ### **Database**
  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
  <img src="https://img.shields.io/badge/MyBatis-4169E1?style=for-the-badge&logo=MyBatis&logoColor=white">
- <img src="https://img.shields.io/badge/JPA-F0047F?style=for-the-badge&logo=JPA&logoColor=white">
+
   <br><br><br>
  
 
